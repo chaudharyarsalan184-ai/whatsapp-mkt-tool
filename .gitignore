@@ -1,0 +1,7 @@
+backend/.env
+backend/data/
+frontend/.env
+frontend/.env.local
+*.local
+node_modules/
+dist/
